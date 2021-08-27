@@ -1,8 +1,11 @@
 ## Getting Started
 
 First, run the development server:
+step 1: npm install
 
-```bash
+step 2: ```bash
+
+
 npm run dev
 # or
 yarn dev

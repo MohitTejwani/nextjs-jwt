@@ -1,4 +1,10 @@
 ## Getting Started
+please create .env file  
+  JWT_KEY = "4/0AX4XfWjQAKOo7pwkWcO-mvsken3N_N3EcaBs_npbl-wcKFaukF8UEtQdfjvHZJ08iiDLcQ"
+NODE_ENV="development"
+
+
+
 
 First, run the development server:
 step 1: npm install
